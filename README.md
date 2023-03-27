@@ -1,13 +1,12 @@
 <h1 align="start">Hi 👋, I'm Ayat Amin</h1>
 <h3 align="start">Pharmacist turned Web Developer</h3>
+🤝 Hello! I'm a junior web developer with a passion for creating clean, modern, and user-friendly websites. I have experience with HTML, CSS, JavaScript, and Rails, and I'm always looking to expand my knowledge and skillset. I'm excited to collaborate with other developers and designers to bring great ideas to life.Let's build something amazing together!
 
-- 🤝 Hello! I'm a junior web developer with a passion for creating clean, modern, and user-friendly websites. I have experience with HTML, CSS, JavaScript, and React, and I'm always looking to expand my knowledge and skillset. I'm excited to collaborate with other developers and designers to bring great ideas to life.Let's build something amazing together!
+ - 🌱 I’m currently learning **Typescript, React and Python**
 
-- 🌱 I’m currently learning **Typescript, React and Python**
+ - 📫 Reach me on: **ayat.jafar.amin@gmail.com**
 
-- 📫 Reach me on: **ayat.jafar.amin@gmail.com**
-
-- ⚡ Fun fact: **I love food and product photography!**
+ - ⚡ Fun fact: **I love food and product photography!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
